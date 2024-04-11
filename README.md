@@ -2,10 +2,10 @@
 
 Orientações:
 Crie um aplicativo simples que calcule qual combustivel esta compensando ( Alcool ou Gasolina ). Você deverá utilizar os seguintes componentes:
-- 7 <Text></Text>
-- 2 <TextInput></TextInput>
-- 2 <Image />
-- 2 <TouchableOpacity></TouchableOpacity>
+- 7 Text
+- 2 TextInput
+- 2 Image
+- 2 TouchableOpacity
 - Hook ( useState )
 - if ternário
 - funções ( exampleFunc = () => {} )
